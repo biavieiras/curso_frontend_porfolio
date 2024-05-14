@@ -116,7 +116,7 @@ body  {
 }
 
 .apresentacao_imagem {
-    width: 60%;
+    width: 50%;
 }
 
 .footer {
@@ -142,5 +142,12 @@ body  {
     }
     .apresentacao_conteudo {
         width: auto;
+    }
+    .apresentacao_conteudo_titulo {
+        font-family: var(--font_primaria);
+        font-size: 1.85rem;
+    }
+    .apresentacao_imagem {
+        width: 60%;
     }
 }

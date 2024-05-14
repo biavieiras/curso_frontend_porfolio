@@ -144,10 +144,16 @@ body  {
         width: auto;
     }
     .apresentacao_conteudo_titulo {
-        font-family: var(--font_primaria);
         font-size: 1.85rem;
+    }
+    .apresentacao_conteudo_paragrafo {
+        font-size: 1.35rem;
     }
     .apresentacao_imagem {
         width: 65%;
+    }
+    .apresentacao_links_navegacao {
+        width: 60%;
+        font-size: 1.35rem;
     }
 }
